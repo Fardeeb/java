@@ -33,16 +33,16 @@ Welcome to the Hacktoberfest 2023 repository! This is the perfect place for you 
      
 4. Make your contributions to the Java programs. You can solve the existing questions or add new Java programs.
 
-6. ***Commit*** your changes:
+5. ***Commit*** your changes:
      ```sh
    git commit -m "Add my feature"
-7. 
-8. Push your changes to your forked repository:
+     
+6. Push your changes to your forked repository:
      ```sh
      git push origin my-feature
-9. Create a pull request (PR) by clicking the "New Pull Request" button on your forked repository. Make sure to provide a detailed description of your changes.
+7. Create a pull request (PR) by clicking the "New Pull Request" button on your forked repository. Make sure to provide a detailed description of your changes.
 
-10. Wait for the maintainers to review your PR and merge it.
+8. Wait for the maintainers to review your PR and merge it.
 
 # Java Programming Questions
 
